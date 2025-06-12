@@ -1,4 +1,3 @@
-from tests.functional.test_login import driver
 from pages.checkout_page import CheckoutPage
 from pages.cart_page import CartPage
 from pages.login_page import LoginPage
